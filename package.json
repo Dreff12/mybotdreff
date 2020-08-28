@@ -6,7 +6,6 @@
   "dependencies": {
     "discord.js": "^12.2.0",
     "fstorm": "latest",
-    "jimp": "latest",
     "node-cron": "^2.0.3",
     "pastebin-js": "^1.0.5",
     "request": "^2.88.2"
