@@ -8,6 +8,7 @@
     "fstorm": "latest",
     "node-cron": "^2.0.3",
     "pastebin-js": "^1.0.5",
-    "request": "^2.88.2"
+    "request": "^2.88.2",
+    "jimp":"^0.16.0"
   }
 }
